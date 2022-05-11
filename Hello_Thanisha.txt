@@ -1,0 +1,21 @@
+<html>
+<head> Hello_Thanisha
+</head>
+<body>
+<h3><b>Hey Thanisha </b></h3>
+<h2>Here's a list of affirmation for you</h2>
+<ul type="square">
+<li>Pain is Temporary. A medical degree is forever </li>
+<li>You were born to own a Stethoscope </li>
+<li> study hard until you can say "Trust me, I am your doctor</li>
+<li>Focus on studying, I Know its hard but believe me its going to worth it</li>
+<li>Born to flex in white codes</li>
+<li>Keep yoursel busy in labs, until one day you can say "SCALPEL Please"<?li>
+</ul>
+
+<img src=""D:\Thanisha\doctor amma.jpeg"" height="1064" width="705">
+
+<h3><b>Regards XD!</b></h3>
+
+</body>
+</html>
